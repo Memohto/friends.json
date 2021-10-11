@@ -2,28 +2,28 @@
   {
     "name": "Pedro",
     "hobby": "Videogames",
-    "age": "22",
+    "age": 22,
     "phone": 1234567890,
     "address": "Disneyland"
   },
   {
     "name": "Miguel",
     "hobby": "Fútbol",
-    "age": "20",
+    "age": 20,
     "phone": 0987654321,
     "address": "Zapopan"
   },
   {
     "name": "Juan",
     "hobby": "Tennis",
-    "age": "25",
+    "age": 25,
     "phone": 07968563427,
     "address": "Culiacán"
   },
   {
     "name": "Carlos",
     "hobby": "Películas",
-    "age": "22",
+    "age": 22,
     "phone": 9365820398,
     "address": "Su casa"
   }
