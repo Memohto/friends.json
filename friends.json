@@ -26,5 +26,12 @@
     "age": 22,
     "phone": 9365820398,
     "address": "Su casa"
+  },
+  {
+    "name": "Sofía",
+    "hobby": "Taekwondo",
+    "age": 23,
+    "phone": 3375993687,
+    "address": "Tlajomulco"
   }
 ]
